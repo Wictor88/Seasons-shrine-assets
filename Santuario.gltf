@@ -1,0 +1,280 @@
+{
+    "accessors" : [
+        {
+            "bufferView" : 0, 
+            "componentType" : 5123, 
+            "count" : 3528, 
+            "max" : [
+                2725
+            ], 
+            "min" : [
+                0
+            ], 
+            "type" : "SCALAR"
+        }, 
+        {
+            "bufferView" : 1, 
+            "componentType" : 5126, 
+            "count" : 2726, 
+            "max" : [
+                1.850001335144043, 
+                3.999999761581421, 
+                7.849999904632568
+            ], 
+            "min" : [
+                -8.04999828338623, 
+                0.0, 
+                -0.7500000596046448
+            ], 
+            "type" : "VEC3"
+        }, 
+        {
+            "bufferView" : 2, 
+            "componentType" : 5126, 
+            "count" : 2726, 
+            "max" : [
+                0.9659262299537659, 
+                0.9182142019271851, 
+                0.9659260511398315
+            ], 
+            "min" : [
+                -0.9659262299537659, 
+                -1.0, 
+                -0.9659259915351868
+            ], 
+            "type" : "VEC3"
+        }, 
+        {
+            "bufferView" : 3, 
+            "componentType" : 5123, 
+            "count" : 1017, 
+            "max" : [
+                548
+            ], 
+            "min" : [
+                0
+            ], 
+            "type" : "SCALAR"
+        }, 
+        {
+            "bufferView" : 4, 
+            "componentType" : 5126, 
+            "count" : 549, 
+            "max" : [
+                21.41062355041504, 
+                13.999996185302734, 
+                17.91366195678711
+            ], 
+            "min" : [
+                -21.58937644958496, 
+                -3.5762786865234375e-06, 
+                -16.58633804321289
+            ], 
+            "type" : "VEC3"
+        }, 
+        {
+            "bufferView" : 5, 
+            "componentType" : 5126, 
+            "count" : 549, 
+            "max" : [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "min" : [
+                -1.0, 
+                -1.0, 
+                -1.0
+            ], 
+            "type" : "VEC3"
+        }, 
+        {
+            "bufferView" : 6, 
+            "componentType" : 5123, 
+            "count" : 2700, 
+            "max" : [
+                1799
+            ], 
+            "min" : [
+                0
+            ], 
+            "type" : "SCALAR"
+        }, 
+        {
+            "bufferView" : 7, 
+            "componentType" : 5126, 
+            "count" : 1800, 
+            "max" : [
+                5.7853169441223145, 
+                6.0, 
+                3.299999952316284
+            ], 
+            "min" : [
+                -6.7853169441223145, 
+                0.0, 
+                -3.3000001907348633
+            ], 
+            "type" : "VEC3"
+        }, 
+        {
+            "bufferView" : 8, 
+            "componentType" : 5126, 
+            "count" : 1800, 
+            "max" : [
+                1.0, 
+                0.0, 
+                0.9510563611984253
+            ], 
+            "min" : [
+                -1.0, 
+                0.0, 
+                -0.9510564804077148
+            ], 
+            "type" : "VEC3"
+        }
+    ], 
+    "asset" : {
+        "generator" : "Khronos Blender glTF 2.0 exporter", 
+        "version" : "2.0"
+    }, 
+    "bufferViews" : [
+        {
+            "buffer" : 0, 
+            "byteLength" : 7056, 
+            "byteOffset" : 0, 
+            "target" : 34963
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 32712, 
+            "byteOffset" : 7056, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 32712, 
+            "byteOffset" : 39768, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 2034, 
+            "byteOffset" : 72480, 
+            "target" : 34963
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 6588, 
+            "byteOffset" : 74516, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 6588, 
+            "byteOffset" : 81104, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 5400, 
+            "byteOffset" : 87692, 
+            "target" : 34963
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 21600, 
+            "byteOffset" : 93092, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 21600, 
+            "byteOffset" : 114692, 
+            "target" : 34962
+        }
+    ], 
+    "buffers" : [
+        {
+            "byteLength" : 136292, 
+            "uri" : "Santuario.bin"
+        }
+    ], 
+    "meshes" : [
+        {
+            "name" : "Circle.002", 
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "NORMAL" : 2, 
+                        "POSITION" : 1
+                    }, 
+                    "indices" : 0
+                }
+            ]
+        }, 
+        {
+            "name" : "Plane", 
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "NORMAL" : 5, 
+                        "POSITION" : 4
+                    }, 
+                    "indices" : 3
+                }
+            ]
+        }, 
+        {
+            "name" : "Circle.009", 
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "NORMAL" : 8, 
+                        "POSITION" : 7
+                    }, 
+                    "indices" : 6
+                }
+            ]
+        }
+    ], 
+    "nodes" : [
+        {
+            "mesh" : 2, 
+            "name" : "Bosque Columnas", 
+            "translation" : [
+                -13.0, 
+                0.0, 
+                -12.0
+            ]
+        }, 
+        {
+            "mesh" : 0, 
+            "name" : "Columnas Vano", 
+            "translation" : [
+                -10.399998664855957, 
+                0.0, 
+                7.09999942779541
+            ]
+        }, 
+        {
+            "mesh" : 1, 
+            "name" : "Muros ", 
+            "translation" : [
+                0.5887953639030457, 
+                0.0, 
+                -0.413152277469635
+            ]
+        }
+    ], 
+    "scene" : 0, 
+    "scenes" : [
+        {
+            "name" : "Scene", 
+            "nodes" : [
+                0, 
+                1, 
+                2
+            ]
+        }
+    ]
+}
